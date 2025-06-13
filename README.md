@@ -23,6 +23,7 @@ In today's digital age, it is very easy to get distracted by work or entertainme
 2. Click on **`SetupPrayerTimeLocker.zip`**.
 3. Then click the **Download** icon. A ZIP file will be downloaded instantly.
 4. Open the ZIP folder and **double-click** the `SetupPrayerTimeLocker.exe` file.
+5. Finally, don't install it in your C folder. (Have some permission issues. Inshallah, it will be solved soon.)
 
 ---
 
